@@ -1,4 +1,4 @@
-# Estado y posición 
+#E stado y posición 
 
 Definiremos unas coordenadas que definen el estado y/o posición de la maquina.
 Estos valores pueden estar referidos a un sistema absoluto e independiente de la máquina o definidos de una forma relativa como si la máquina fuera el centro del universo.
